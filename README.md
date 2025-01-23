@@ -1,6 +1,6 @@
 ## Olá, Eu Sou a Dalila!👋
 
-- 🌱 Estudando HTML, CSS e Javascript
+- 🌱 Estudando HTML, CSS, Javascript e Node e JS
 - 😄 Pronome: ela/dela
 
 <div align="center">
